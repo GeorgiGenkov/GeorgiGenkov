@@ -6,8 +6,8 @@ Quality assurance
 
 I am very passionate about diving further and further into the magnificent ocean of the QA engineering. The main reason behind my attraction to this specific area of the IT world is the opportunity to combine my attachment to both - coding and searching for bugs/defects.
 
-- 🔭 I am currently taking Back-End QA automation courses at SoftUni.
-- 🌱 I am looking forward to enhancing my QA skills and knowledge with Front-end QA automation courses in the coming summer.
+- 🔭 I have recently completed the Back-End QA Automation courses at SoftUni.
+- 🌱 Now, I look forward to enhancing my QA skills and knowledge by enrolling in Front-End QA Automation courses this upcoming summer.
 <br/>
 
 ### Languages and Tools:
