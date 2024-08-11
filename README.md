@@ -1,13 +1,13 @@
 Hi, I am Georgi! 👋
 =======================
 
-Quality assurance
+Quality Assurance Enthusiast
 -----------------
 
-I am very passionate about diving further and further into the magnificent ocean of the QA engineering. The main reason behind my attraction to this specific area of the IT world is the opportunity to combine my attachment to both - coding and searching for bugs/defects.
+I'm deeply passionate about exploring the fascinating world of QA engineering. What draws me to this field is the unique blend of coding and the thrill of hunting down bugs and defects, allowing me to contribute to creating flawless software.
 
-- 🔭 I have recently completed the Back-End QA Automation courses at SoftUni.
-- 🌱 Now, I look forward to enhancing my QA skills and knowledge by enrolling in Front-End QA Automation courses this upcoming summer.
+- 🌱 I recently completed Back-End & Front-End QA Automation courses at SoftUni.
+- 🔭 Currently, I'm focused on advancing my QA Automation skills, particularly with Selenium WebDriver and Appium.
 <br/>
 
 ### Languages and Tools:
